@@ -7,5 +7,4 @@ function getPopularMovies() {
 
 export {
   getPopularMovies,
-
 }
